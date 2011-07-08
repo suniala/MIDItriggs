@@ -1,0 +1,5 @@
+MIDItriggs is a universal MIDI to/from trigger interface with powerful drivers
+for the Roland CR-78 platform. The sources should enable you to port the
+project to other host platforms or maybe invent totally new projects based on
+this simple hard/software. MIDI controllers, MIDI filters, MIDI light switch
+control, whatever you can imagine, all is possible based on this stuff :)

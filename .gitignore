@@ -1,0 +1,4 @@
+*.o
+miditriggs.elf
+miditriggs.hex
+miditriggs.syx
